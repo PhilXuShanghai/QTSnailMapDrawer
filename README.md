@@ -2,7 +2,7 @@
 
 > A Qt-based map editor for warehouse AMR/AGV robots: draw walls, roads and storage slots on a metric canvas, and upload the map to robots over TCP.
 
-[主界面](docs/image1.png)
+![主界面](docs/image1.png)
 **状态**：v0.9.5 · 完成度约 95% · 剩余事项见[路线图](#已知问题与路线图)
 
 ## 它解决什么问题
